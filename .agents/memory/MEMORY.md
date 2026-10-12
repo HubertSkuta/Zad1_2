@@ -1,0 +1,1 @@
+- [Imported Java environments](imported-java-environments.md) — legacy Nix dependencies can prevent an otherwise configured Java module from loading.
